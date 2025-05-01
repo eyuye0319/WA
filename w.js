@@ -1,1 +1,0 @@
-console.log("Wubgzer's portfolio loaded successfully!");
